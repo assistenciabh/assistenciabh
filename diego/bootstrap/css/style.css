@@ -1,0 +1,155 @@
+body{
+	background: #f9f9f9;
+}
+
+
+.logo{
+	margin: 0px auto;
+	width: 100%;
+}
+
+
+.geral{
+	max-width: 1060px;
+	margin: 0 auto;
+	padding-bottom: 20px;
+}
+
+
+.branco{
+	color: #fff;
+}
+
+
+.branco:hover{
+	color: #fff;
+}
+
+
+.preto{
+	color: #000;
+}
+
+
+.preto:hover{
+	color: #333;
+}
+
+
+.btnslidebranco{
+	background: transparent;
+	border-radius: 15px;
+	border: 3px solid #ffffff;
+	color: #fff;
+}
+
+
+.btnslidebranco:hover{
+	background: #ffffff;
+	color: #000000;
+}
+
+
+.btnslidepreto{
+	background: transparent;
+	border-radius: 15px;
+	border: 3px solid #000000;
+	color: #000000;
+}
+
+
+.btnslidepreto:hover{
+	background: #000000;
+	color: #ffffff;
+}
+
+
+.carousel img{
+	width: 100%;
+}
+
+
+.nav{
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+
+
+.btnvermelho{
+	background: #8d191d;
+	color: #fff;
+	border-radius: 5px;
+	border: 1px solid #8d191d;
+}
+
+
+.btnvermelho:hover{
+	background:rgba(141, 25, 29, 0.75);
+	color: #fff;
+}
+
+
+.center{
+	text-align: center;
+	height: 100%;
+}
+
+
+.sessao{
+	padding-top: 5%;
+}
+
+
+.vermelho{
+	color:#8d191d;
+}
+
+.vermelho:hover{
+	color:#8d191d;
+}
+
+
+.espaco{
+	padding-right: 20px;
+}
+
+
+.right{
+	text-align: right;
+}
+
+
+.opacity{
+	opacity: 0.75;
+}
+
+
+.btnbrancovermelho{
+	background: transparent;
+	color: #8d191d;
+	border-radius: 5px;
+	border: 2px solid #8d191d;
+}
+
+
+.btnbrancovermelho:hover{
+	background:rgba(141, 25, 29, 0.75);
+	border: 2px solid #ffffff;
+	color: #fff;
+}
+
+
+
+kbd{
+	font-size: 0.9em;
+	color:#8d191d;
+}
+
+
+.img-rounded{
+	max-width: 40%;
+}
+
+.bigFont{
+	font-size: 3rem;
+}
